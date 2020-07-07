@@ -1,0 +1,1 @@
+Welcome here some exercises in Javascript, enjoy!
